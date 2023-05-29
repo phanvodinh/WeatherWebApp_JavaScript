@@ -28,7 +28,8 @@ searchInput.addEventListener('change', (e) => {
 
         });
 });
-// tro ly ao
+
+ // tro ly ao
 
 var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
 const recognition = new SpeechRecognition();
